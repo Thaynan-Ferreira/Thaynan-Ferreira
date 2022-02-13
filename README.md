@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-* 🧑🏽 23 anos.
+* 🧑🏽 24 anos.
 * 🛠 Estudante de Engenharia de Computação, cursando o 5° semestre.
 * 🤩 Estranhamente interessado em programação, chamado de louco inclusive
 
