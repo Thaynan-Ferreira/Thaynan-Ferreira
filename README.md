@@ -27,5 +27,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-## 📊 Estatísticas
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thaynan-Ferreira&show_icons=true&theme=radical)
