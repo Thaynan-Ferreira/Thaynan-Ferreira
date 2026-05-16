@@ -6,7 +6,7 @@
 ## 🛠️ Sobre Mim
 
 - 🎓 **Formação:** Engenharia de Computação.
-- 🚀 **Objetivo:** Atuar como Engenheiro de Software / Engenheiro de Dados.
+- 🚀 **Objetivo:** Atuar como Engenheiro de Software || Engenheiro de Dados.
 
 ## 💻 Tech Stack
 
